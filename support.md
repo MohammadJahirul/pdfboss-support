@@ -13,3 +13,8 @@ For help, bug reports, or accessibility feedback, email [mohammadjahir609@gmail.
 - **Recover a document:** Check Recently Deleted or a document's available previous version before deleting it permanently.
 
 PDF Boss does not require an account. The optional page assistant is available only on supported devices with Apple Intelligence ready. For general questions, contact the email above.
+
+
+## PDF Boss Pro
+
+Compare two text-based PDFs from Tools → Compare PDFs, then share the change report. Make scans searchable first. Manage or cancel a subscription in Apple Account settings. If an active plan is missing, open PDF Boss Pro and tap Restore purchases.
