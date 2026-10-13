@@ -21,3 +21,8 @@ Camera access is used only when you choose to scan. Photos and Files access is u
 ## Children and changes
 
 PDF Boss is a general-purpose document utility and does not knowingly collect children's personal data. If these practices change, this policy will be updated with a new effective date before the change takes effect.
+
+
+## Subscriptions and App Store purchases
+
+PDF Boss Pro subscriptions use Apple’s in-app purchase system. Apple processes purchases, billing, cancellations, and refunds under Apple’s privacy policy. The app checks signed App Store transactions on your device to unlock Pro; the developer does not receive your PDFs through this process.
